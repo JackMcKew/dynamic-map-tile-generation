@@ -5,7 +5,7 @@ title: Dynamic Map Tile Generation at Scale
 
 # Dynamic Map Tile Generation at Scale
 
-Hunter Data Analytics 2022 - Jack McKew
+Brisbane Data Science 2022 - Jack McKew
 
 * What are map tiles?
 * Why use them?
@@ -17,7 +17,7 @@ Note: Rough overview on what is covered in the talk, mention we'll go through a 
 
 ## Quick Note
 
-This talk is open source: <https://jackmckew.github.io/hunter-data-analytics-2022-dynamic-map-tile-generation/>
+This talk is open source: <https://jackmckew.github.io/dynamic-map-tile-generation/>
 
 Note: Mention that the presentation is live on the web and hosted on github pages
 
